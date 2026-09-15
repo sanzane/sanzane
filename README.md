@@ -1,4 +1,4 @@
-# Hi there, I'm Sai Sri Kiran 👋
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6D28D9,50:8B5CF6,100:4F46E5&text=Sai%20Sri%20Kiran&fontColor=ffffff&fontSize=50&fontAlignY=40&desc=AI%20Builder%20•%20ML%20Engineer%20•%20Creative%20Designer&descAlignY=60" />
