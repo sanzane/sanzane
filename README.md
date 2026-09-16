@@ -266,8 +266,3 @@ More projects coming.
 ---
 
 ### Build. Analyze. Create. Repeat. 🚀
-
----
-
-### Build. Learn. Create. Innovate. 🚀
-
